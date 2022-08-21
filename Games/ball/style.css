@@ -1,0 +1,16 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  #myCanvas {
+    background: #eee;
+    display: block;
+    margin: 0 auto;
+  }
+  body{
+    background-color: rgb(74, 204, 255);
+  }
+  h2{
+    text-align: center;
+    font-style: oblique;
+  }
